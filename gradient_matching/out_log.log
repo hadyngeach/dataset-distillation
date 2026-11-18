@@ -1,0 +1,246 @@
+2026-11-17 19:29:51,562 INFO __main__: Evaluation: train acc = 1.0000, test acc = 0.1025
+2026-11-17 19:29:51,562 INFO __main__: iter 0 (before distillation): test acc = 0.1025 +/- 0.0108
+2026-11-17 19:30:35,037 INFO __main__: iter 5: loss = 289.1694
+2026-11-17 19:30:35,771 INFO __main__: iter 10: loss = 255.8680
+2026-11-17 19:30:36,506 INFO __main__: iter 15: loss = 244.0060
+2026-11-17 19:30:37,382 INFO __main__: iter 20: loss = 232.3735
+2026-11-17 19:31:16,428 INFO __main__: iter 25: loss = 228.8564
+2026-11-17 19:31:17,172 INFO __main__: iter 30: loss = 221.4657
+2026-11-17 19:31:17,932 INFO __main__: iter 35: loss = 217.9677
+2026-11-17 19:31:18,590 INFO __main__: iter 40: loss = 220.0248
+2026-11-17 19:31:56,302 INFO __main__: iter 45: loss = 215.9868
+2026-11-17 19:31:57,023 INFO __main__: iter 50: loss = 214.9107
+2026-11-17 19:32:35,460 INFO __main__: Evaluation: train acc = 1.0000, test acc = 0.2731
+2026-11-17 19:32:35,463 INFO __main__: iter 50: test acc = 0.2731 +/- 0.0066
+2026-11-17 19:32:35,476 DEBUG PIL.Image: Importing PngImagePlugin
+2026-11-17 19:32:36,233 INFO __main__: iter 55: loss = 208.4811
+2026-11-17 19:32:36,890 INFO __main__: iter 60: loss = 218.2283
+2026-11-17 19:33:15,271 INFO __main__: iter 65: loss = 211.9317
+2026-11-17 19:33:15,998 INFO __main__: iter 70: loss = 207.5139
+2026-11-17 19:33:16,757 INFO __main__: iter 75: loss = 207.9397
+2026-11-17 19:33:17,413 INFO __main__: iter 80: loss = 214.7337
+2026-11-17 19:33:55,673 INFO __main__: iter 85: loss = 208.2978
+2026-11-17 19:33:56,540 INFO __main__: iter 90: loss = 210.8091
+2026-11-17 19:33:57,274 INFO __main__: iter 95: loss = 208.1984
+2026-11-17 19:33:57,932 INFO __main__: iter 100: loss = 210.7124
+2026-11-17 19:34:37,198 INFO __main__: Evaluation: train acc = 1.0000, test acc = 0.2740
+2026-11-17 19:34:37,199 INFO __main__: iter 100: test acc = 0.2740 +/- 0.0063
+2026-11-17 19:35:15,216 INFO __main__: iter 105: loss = 199.7171
+2026-11-17 19:35:15,947 INFO __main__: iter 110: loss = 202.0622
+2026-11-17 19:35:16,665 INFO __main__: iter 115: loss = 206.4017
+2026-11-17 19:35:17,333 INFO __main__: iter 120: loss = 203.9574
+2026-11-17 19:35:55,113 INFO __main__: iter 125: loss = 201.8641
+2026-11-17 19:35:55,885 INFO __main__: iter 130: loss = 201.2733
+2026-11-17 19:35:56,599 INFO __main__: iter 135: loss = 204.5975
+2026-11-17 19:35:57,256 INFO __main__: iter 140: loss = 203.0299
+2026-11-17 19:36:33,323 INFO __main__: iter 145: loss = 200.5236
+2026-11-17 19:36:34,036 INFO __main__: iter 150: loss = 194.2088
+2026-11-17 19:37:12,325 INFO __main__: Evaluation: train acc = 1.0000, test acc = 0.2790
+2026-11-17 19:37:12,327 INFO __main__: iter 150: test acc = 0.2790 +/- 0.0072
+2026-11-17 19:37:13,096 INFO __main__: iter 155: loss = 196.3754
+2026-11-17 19:37:13,746 INFO __main__: iter 160: loss = 198.7527
+2026-11-17 19:37:51,856 INFO __main__: iter 165: loss = 202.5608
+2026-11-17 19:37:52,706 INFO __main__: iter 170: loss = 195.4373
+2026-11-17 19:37:53,539 INFO __main__: iter 175: loss = 196.3648
+2026-11-17 19:37:54,243 INFO __main__: iter 180: loss = 199.2752
+2026-11-17 19:38:32,424 INFO __main__: iter 185: loss = 195.6230
+2026-11-17 19:38:33,206 INFO __main__: iter 190: loss = 196.8303
+2026-11-17 19:38:33,948 INFO __main__: iter 195: loss = 198.1403
+2026-11-17 19:38:34,664 INFO __main__: iter 200: loss = 193.4321
+2026-11-17 19:39:16,767 INFO __main__: Evaluation: train acc = 1.0000, test acc = 0.2772
+2026-11-17 19:39:16,771 INFO __main__: iter 200: test acc = 0.2772 +/- 0.0023
+2026-11-17 19:39:54,995 INFO __main__: iter 205: loss = 197.8493
+2026-11-17 19:39:55,729 INFO __main__: iter 210: loss = 190.9004
+2026-11-17 19:39:56,486 INFO __main__: iter 215: loss = 195.4737
+2026-11-17 19:39:57,191 INFO __main__: iter 220: loss = 192.4254
+2026-11-17 19:40:35,479 INFO __main__: iter 225: loss = 193.9589
+2026-11-17 19:40:36,234 INFO __main__: iter 230: loss = 193.0350
+2026-11-17 19:40:37,011 INFO __main__: iter 235: loss = 193.0862
+2026-11-17 19:40:37,693 INFO __main__: iter 240: loss = 198.5454
+2026-11-17 19:41:15,080 INFO __main__: iter 245: loss = 194.3628
+2026-11-17 19:41:15,845 INFO __main__: iter 250: loss = 188.4451
+2026-11-17 19:41:56,822 INFO __main__: Evaluation: train acc = 1.0000, test acc = 0.2754
+2026-11-17 19:41:56,827 INFO __main__: iter 250: test acc = 0.2754 +/- 0.0046
+2026-11-17 19:41:57,647 INFO __main__: iter 255: loss = 185.1847
+2026-11-17 19:41:58,308 INFO __main__: iter 260: loss = 196.6177
+2026-11-17 19:42:35,919 INFO __main__: iter 265: loss = 193.9750
+2026-11-17 19:42:36,660 INFO __main__: iter 270: loss = 192.4332
+2026-11-17 19:42:37,395 INFO __main__: iter 275: loss = 192.9061
+2026-11-17 19:42:38,059 INFO __main__: iter 280: loss = 195.8846
+2026-11-17 19:43:15,021 INFO __main__: iter 285: loss = 189.5522
+2026-11-17 19:43:15,755 INFO __main__: iter 290: loss = 191.7486
+2026-11-17 19:43:16,490 INFO __main__: iter 295: loss = 188.6589
+2026-11-17 19:43:17,157 INFO __main__: iter 300: loss = 189.7067
+2026-11-17 19:43:56,783 INFO __main__: Evaluation: train acc = 1.0000, test acc = 0.2817
+2026-11-17 19:43:56,786 INFO __main__: iter 300: test acc = 0.2817 +/- 0.0050
+2026-11-17 19:44:34,832 INFO __main__: iter 305: loss = 191.2321
+2026-11-17 19:44:35,608 INFO __main__: iter 310: loss = 185.8500
+2026-11-17 19:44:36,429 INFO __main__: iter 315: loss = 193.1908
+2026-11-17 19:44:37,094 INFO __main__: iter 320: loss = 196.8691
+2026-11-17 19:45:13,316 INFO __main__: iter 325: loss = 187.6218
+2026-11-17 19:45:14,030 INFO __main__: iter 330: loss = 184.3843
+2026-11-17 19:45:14,745 INFO __main__: iter 335: loss = 193.9237
+2026-11-17 19:45:15,399 INFO __main__: iter 340: loss = 200.6572
+2026-11-17 19:45:53,860 INFO __main__: iter 345: loss = 190.5962
+2026-11-17 19:45:54,579 INFO __main__: iter 350: loss = 190.8708
+2026-11-17 19:46:32,734 INFO __main__: Evaluation: train acc = 1.0000, test acc = 0.2778
+2026-11-17 19:46:32,739 INFO __main__: iter 350: test acc = 0.2778 +/- 0.0039
+2026-11-17 19:46:33,562 INFO __main__: iter 355: loss = 190.3738
+2026-11-17 19:46:34,214 INFO __main__: iter 360: loss = 198.2653
+2026-11-17 19:47:11,208 INFO __main__: iter 365: loss = 190.9304
+2026-11-17 19:47:11,920 INFO __main__: iter 370: loss = 191.1267
+2026-11-17 19:47:12,637 INFO __main__: iter 375: loss = 183.8632
+2026-11-17 19:47:13,289 INFO __main__: iter 380: loss = 194.4653
+2026-11-17 19:47:48,640 INFO __main__: iter 385: loss = 185.3176
+2026-11-17 19:47:49,349 INFO __main__: iter 390: loss = 182.4441
+2026-11-17 19:47:50,074 INFO __main__: iter 395: loss = 191.7499
+2026-11-17 19:47:50,723 INFO __main__: iter 400: loss = 194.3230
+2026-11-17 19:48:29,043 INFO __main__: Evaluation: train acc = 1.0000, test acc = 0.2782
+2026-11-17 19:48:29,043 INFO __main__: iter 400: test acc = 0.2782 +/- 0.0069
+2026-11-17 19:49:05,210 INFO __main__: iter 405: loss = 186.2532
+2026-11-17 19:49:05,925 INFO __main__: iter 410: loss = 189.5365
+2026-11-17 19:49:06,638 INFO __main__: iter 415: loss = 186.8908
+2026-11-17 19:49:07,294 INFO __main__: iter 420: loss = 193.1156
+2026-11-17 19:49:43,412 INFO __main__: iter 425: loss = 184.5503
+2026-11-17 19:49:44,136 INFO __main__: iter 430: loss = 189.7756
+2026-11-17 19:49:44,851 INFO __main__: iter 435: loss = 184.5862
+2026-11-17 19:49:45,504 INFO __main__: iter 440: loss = 193.9646
+2026-11-17 19:50:20,617 INFO __main__: iter 445: loss = 183.8373
+2026-11-17 19:50:21,331 INFO __main__: iter 450: loss = 190.1070
+2026-11-17 19:51:00,363 INFO __main__: Evaluation: train acc = 1.0000, test acc = 0.2798
+2026-11-17 19:51:00,363 INFO __main__: iter 450: test acc = 0.2798 +/- 0.0059
+2026-11-17 19:51:01,152 INFO __main__: iter 455: loss = 187.4513
+2026-11-17 19:51:01,820 INFO __main__: iter 460: loss = 192.2150
+2026-11-17 19:51:37,756 INFO __main__: iter 465: loss = 190.8498
+2026-11-17 19:51:38,477 INFO __main__: iter 470: loss = 185.7720
+2026-11-17 19:51:39,208 INFO __main__: iter 475: loss = 188.2717
+2026-11-17 19:51:39,867 INFO __main__: iter 480: loss = 194.5696
+2026-11-17 19:52:15,428 INFO __main__: iter 485: loss = 181.3819
+2026-11-17 19:52:16,136 INFO __main__: iter 490: loss = 188.2831
+2026-11-17 19:52:16,858 INFO __main__: iter 495: loss = 186.5173
+2026-11-17 19:52:17,511 INFO __main__: iter 500: loss = 194.8765
+2026-11-17 19:52:55,865 INFO __main__: Evaluation: train acc = 1.0000, test acc = 0.2768
+2026-11-17 19:52:55,865 INFO __main__: iter 500: test acc = 0.2768 +/- 0.0055
+2026-11-17 19:53:32,604 INFO __main__: iter 505: loss = 184.1904
+2026-11-17 19:53:33,417 INFO __main__: iter 510: loss = 182.0485
+2026-11-17 19:53:34,144 INFO __main__: iter 515: loss = 188.8320
+2026-11-17 19:53:34,852 INFO __main__: iter 520: loss = 193.3835
+2026-11-17 19:54:09,916 INFO __main__: iter 525: loss = 182.3364
+2026-11-17 19:54:10,639 INFO __main__: iter 530: loss = 186.2057
+2026-11-17 19:54:11,360 INFO __main__: iter 535: loss = 188.2027
+2026-11-17 19:54:12,023 INFO __main__: iter 540: loss = 195.6499
+2026-11-17 19:54:47,349 INFO __main__: iter 545: loss = 179.9581
+2026-11-17 19:54:48,063 INFO __main__: iter 550: loss = 188.8647
+2026-11-17 19:55:27,152 INFO __main__: Evaluation: train acc = 1.0000, test acc = 0.2808
+2026-11-17 19:55:27,157 INFO __main__: iter 550: test acc = 0.2808 +/- 0.0077
+2026-11-17 19:55:27,955 INFO __main__: iter 555: loss = 178.9140
+2026-11-17 19:55:28,615 INFO __main__: iter 560: loss = 190.6452
+2026-11-17 19:56:04,858 INFO __main__: iter 565: loss = 193.2865
+2026-11-17 19:56:05,567 INFO __main__: iter 570: loss = 181.3882
+2026-11-17 19:56:06,275 INFO __main__: iter 575: loss = 183.5339
+2026-11-17 19:56:06,930 INFO __main__: iter 580: loss = 186.3232
+2026-11-17 19:56:42,665 INFO __main__: iter 585: loss = 182.4106
+2026-11-17 19:56:43,473 INFO __main__: iter 590: loss = 181.9689
+2026-11-17 19:56:44,219 INFO __main__: iter 595: loss = 184.1381
+2026-11-17 19:56:44,883 INFO __main__: iter 600: loss = 189.6808
+2026-11-17 19:57:24,818 INFO __main__: Evaluation: train acc = 1.0000, test acc = 0.2799
+2026-11-17 19:57:24,818 INFO __main__: iter 600: test acc = 0.2799 +/- 0.0055
+2026-11-17 19:58:00,633 INFO __main__: iter 605: loss = 187.4149
+2026-11-17 19:58:01,356 INFO __main__: iter 610: loss = 186.1616
+2026-11-17 19:58:02,066 INFO __main__: iter 615: loss = 185.8715
+2026-11-17 19:58:02,736 INFO __main__: iter 620: loss = 190.2756
+2026-11-17 19:58:38,341 INFO __main__: iter 625: loss = 182.0022
+2026-11-17 19:58:39,080 INFO __main__: iter 630: loss = 187.8933
+2026-11-17 19:58:39,790 INFO __main__: iter 635: loss = 189.0980
+2026-11-17 19:58:40,442 INFO __main__: iter 640: loss = 188.4763
+2026-11-17 19:59:15,590 INFO __main__: iter 645: loss = 183.6640
+2026-11-17 19:59:16,300 INFO __main__: iter 650: loss = 183.8204
+2026-11-17 19:59:54,862 INFO __main__: Evaluation: train acc = 1.0000, test acc = 0.2824
+2026-11-17 19:59:54,862 INFO __main__: iter 650: test acc = 0.2824 +/- 0.0050
+2026-11-17 19:59:55,591 INFO __main__: iter 655: loss = 188.9444
+2026-11-17 19:59:56,246 INFO __main__: iter 660: loss = 195.2014
+2026-11-17 20:00:32,188 INFO __main__: iter 665: loss = 188.3930
+2026-11-17 20:00:32,897 INFO __main__: iter 670: loss = 180.2531
+2026-11-17 20:00:33,618 INFO __main__: iter 675: loss = 183.3293
+2026-11-17 20:00:34,272 INFO __main__: iter 680: loss = 191.9897
+2026-11-17 20:01:09,728 INFO __main__: iter 685: loss = 187.2290
+2026-11-17 20:01:10,451 INFO __main__: iter 690: loss = 181.3373
+2026-11-17 20:01:11,210 INFO __main__: iter 695: loss = 186.9363
+2026-11-17 20:01:11,952 INFO __main__: iter 700: loss = 188.3888
+2026-11-17 20:01:50,538 INFO __main__: Evaluation: train acc = 1.0000, test acc = 0.2791
+2026-11-17 20:01:50,539 INFO __main__: iter 700: test acc = 0.2791 +/- 0.0033
+2026-11-17 20:02:27,398 INFO __main__: iter 705: loss = 186.0085
+2026-11-17 20:02:28,112 INFO __main__: iter 710: loss = 182.6916
+2026-11-17 20:02:28,821 INFO __main__: iter 715: loss = 187.4616
+2026-11-17 20:02:29,475 INFO __main__: iter 720: loss = 197.3666
+2026-11-17 20:03:05,352 INFO __main__: iter 725: loss = 190.2072
+2026-11-17 20:03:06,077 INFO __main__: iter 730: loss = 178.2837
+2026-11-17 20:03:06,796 INFO __main__: iter 735: loss = 185.8667
+2026-11-17 20:03:07,450 INFO __main__: iter 740: loss = 188.7489
+2026-11-17 20:03:42,940 INFO __main__: iter 745: loss = 182.5496
+2026-11-17 20:03:43,650 INFO __main__: iter 750: loss = 182.7113
+2026-11-17 20:04:22,508 INFO __main__: Evaluation: train acc = 1.0000, test acc = 0.2804
+2026-11-17 20:04:22,508 INFO __main__: iter 750: test acc = 0.2804 +/- 0.0047
+2026-11-17 20:04:23,243 INFO __main__: iter 755: loss = 182.8934
+2026-11-17 20:04:23,899 INFO __main__: iter 760: loss = 189.7125
+2026-11-17 20:05:00,523 INFO __main__: iter 765: loss = 186.5070
+2026-11-17 20:05:01,244 INFO __main__: iter 770: loss = 182.7006
+2026-11-17 20:05:01,964 INFO __main__: iter 775: loss = 182.5628
+2026-11-17 20:05:02,620 INFO __main__: iter 780: loss = 188.5182
+2026-11-17 20:05:37,812 INFO __main__: iter 785: loss = 183.2606
+2026-11-17 20:05:38,564 INFO __main__: iter 790: loss = 183.6764
+2026-11-17 20:05:39,276 INFO __main__: iter 795: loss = 181.3461
+2026-11-17 20:05:39,930 INFO __main__: iter 800: loss = 187.8700
+2026-11-17 20:06:19,727 INFO __main__: Evaluation: train acc = 1.0000, test acc = 0.2835
+2026-11-17 20:06:19,727 INFO __main__: iter 800: test acc = 0.2835 +/- 0.0052
+2026-11-17 20:06:56,507 INFO __main__: iter 805: loss = 182.7978
+2026-11-17 20:06:57,276 INFO __main__: iter 810: loss = 181.9053
+2026-11-17 20:06:57,988 INFO __main__: iter 815: loss = 181.9879
+2026-11-17 20:06:58,643 INFO __main__: iter 820: loss = 196.7576
+2026-11-17 20:07:33,824 INFO __main__: iter 825: loss = 182.4840
+2026-11-17 20:07:34,582 INFO __main__: iter 830: loss = 180.4844
+2026-11-17 20:07:35,313 INFO __main__: iter 835: loss = 188.1867
+2026-11-17 20:07:35,968 INFO __main__: iter 840: loss = 186.7836
+2026-11-17 20:08:10,848 INFO __main__: iter 845: loss = 179.6373
+2026-11-17 20:08:11,555 INFO __main__: iter 850: loss = 181.9466
+2026-11-17 20:08:50,697 INFO __main__: Evaluation: train acc = 1.0000, test acc = 0.2841
+2026-11-17 20:08:50,701 INFO __main__: iter 850: test acc = 0.2841 +/- 0.0058
+2026-11-17 20:08:51,564 INFO __main__: iter 855: loss = 185.1682
+2026-11-17 20:08:52,251 INFO __main__: iter 860: loss = 186.8719
+2026-11-17 20:09:27,837 INFO __main__: iter 865: loss = 180.4499
+2026-11-17 20:09:28,547 INFO __main__: iter 870: loss = 188.7321
+2026-11-17 20:09:29,268 INFO __main__: iter 875: loss = 176.6759
+2026-11-17 20:09:29,923 INFO __main__: iter 880: loss = 190.6643
+2026-11-17 20:10:05,589 INFO __main__: iter 885: loss = 183.0685
+2026-11-17 20:10:06,302 INFO __main__: iter 890: loss = 179.5904
+2026-11-17 20:10:07,017 INFO __main__: iter 895: loss = 182.4005
+2026-11-17 20:10:07,676 INFO __main__: iter 900: loss = 184.9775
+2026-11-17 20:10:47,559 INFO __main__: Evaluation: train acc = 1.0000, test acc = 0.2817
+2026-11-17 20:10:47,564 INFO __main__: iter 900: test acc = 0.2817 +/- 0.0065
+2026-11-17 20:11:24,425 INFO __main__: iter 905: loss = 180.3096
+2026-11-17 20:11:25,147 INFO __main__: iter 910: loss = 183.3686
+2026-11-17 20:11:25,862 INFO __main__: iter 915: loss = 176.8644
+2026-11-17 20:11:26,525 INFO __main__: iter 920: loss = 189.0186
+2026-11-17 20:12:02,009 INFO __main__: iter 925: loss = 184.0657
+2026-11-17 20:12:02,727 INFO __main__: iter 930: loss = 176.3749
+2026-11-17 20:12:03,441 INFO __main__: iter 935: loss = 182.6033
+2026-11-17 20:12:04,103 INFO __main__: iter 940: loss = 184.0291
+2026-11-17 20:12:39,137 INFO __main__: iter 945: loss = 186.0546
+2026-11-17 20:12:39,860 INFO __main__: iter 950: loss = 178.9966
+2026-11-17 20:13:19,184 INFO __main__: Evaluation: train acc = 1.0000, test acc = 0.2828
+2026-11-17 20:13:19,187 INFO __main__: iter 950: test acc = 0.2828 +/- 0.0077
+2026-11-17 20:13:19,947 INFO __main__: iter 955: loss = 179.4213
+2026-11-17 20:13:20,611 INFO __main__: iter 960: loss = 192.2746
+2026-11-17 20:13:56,396 INFO __main__: iter 965: loss = 179.7918
+2026-11-17 20:13:57,150 INFO __main__: iter 970: loss = 180.3656
+2026-11-17 20:13:57,867 INFO __main__: iter 975: loss = 183.3254
+2026-11-17 20:13:58,519 INFO __main__: iter 980: loss = 187.5375
+2026-11-17 20:14:34,356 INFO __main__: iter 985: loss = 183.4961
+2026-11-17 20:14:35,062 INFO __main__: iter 990: loss = 183.7962
+2026-11-17 20:14:35,799 INFO __main__: iter 995: loss = 183.6206
+2026-11-17 20:14:36,459 INFO __main__: iter 1000: loss = 195.7471
+2026-11-17 20:15:16,125 INFO __main__: Evaluation: train acc = 1.0000, test acc = 0.2811
+2026-11-17 20:15:16,125 INFO __main__: iter 1000: test acc = 0.2811 +/- 0.0085
+2026-11-17 20:15:16,147 INFO __main__: Mean absolute image change: 0.99415886
+2026-11-17 20:15:54,845 INFO __main__: Evaluation: train acc = 1.0000, test acc = 0.2825
+2026-11-17 20:15:54,845 INFO __main__: FINAL (10 held-out inits): test acc = 0.2825 +/- 0.0065
